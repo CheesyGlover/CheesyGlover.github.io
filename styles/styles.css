@@ -33,6 +33,10 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
+h3 {
+  font-size: 0.2px;
+}
+
 img {
   width: 550px;
   display: block;
